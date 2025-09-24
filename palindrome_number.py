@@ -10,5 +10,5 @@ def ispalindrome(n) :
     else :
         print(False)
 if __name__== "__main__" :  
-    x = 789987
+    x = int(input("Enter Integer Number To Check If Its Palindrome: "))
     ispalindrome(x)
