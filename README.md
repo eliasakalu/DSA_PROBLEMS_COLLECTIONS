@@ -6,3 +6,4 @@ A collection of Data Structures and Algorithms problems solved in Python.
 - [Sum of Natural Numbers](./sum_natural_numbers.py) 
 - [Count Digits](./count_digits.py)
 - [Palindrome Number](./palindrome_number.py)
+- [Factorial of a Number](./factorial_of_a_number.py) 
