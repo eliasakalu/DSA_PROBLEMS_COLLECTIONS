@@ -7,3 +7,4 @@ A collection of Data Structures and Algorithms problems solved in Python.
 - [Count Digits](./count_digits.py)
 - [Palindrome Number](./palindrome_number.py)
 - [Factorial of a Number](./factorial_of_a_number.py) 
+- [Trailing Zeros in Factorial](./trailing_zeros_in_factorial.py) 
