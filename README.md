@@ -9,3 +9,4 @@ A collection of Data Structures and Algorithms problems solved in Python.
 - [Factorial of a Number](./factorial_of_a_number.py) 
 - [Trailing Zeros in Factorial](./trailing_zeros_in_factorial.py) 
 - [GCD or HCF of two numbers](./gcf.py) 
+- [LCM of two numbers](./lcm.py)
