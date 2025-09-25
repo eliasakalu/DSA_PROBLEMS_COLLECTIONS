@@ -10,3 +10,4 @@ A collection of Data Structures and Algorithms problems solved in Python.
 - [Trailing Zeros in Factorial](./trailing_zeros_in_factorial.py) 
 - [GCD or HCF of two numbers](./gcf.py) 
 - [LCM of two numbers](./lcm.py)
+- [Check for Prime](./prime.py)
