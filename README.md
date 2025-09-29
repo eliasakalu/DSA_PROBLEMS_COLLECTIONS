@@ -14,3 +14,4 @@ A collection of Data Structures and Algorithms problems solved in Python.
 - [Prime Factorization](./prime_factorization.py)
 - [All Divisors of a Number](./all_divisors_of_a_number.py) 
 - [Sieve of Eratosthenes](./sieve_of_erathosthenes.py) 
+- [Computing Power](./computing_power.py) 
