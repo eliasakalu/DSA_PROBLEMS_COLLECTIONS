@@ -11,3 +11,4 @@ A collection of Data Structures and Algorithms problems solved in Python.
 - [GCD or HCF of two numbers](./gcf.py) 
 - [LCM of two numbers](./lcm.py)
 - [Check for Prime](./prime.py)
+- [Prime Factorization](./prime_factorization.py)
