@@ -13,3 +13,4 @@ A collection of Data Structures and Algorithms problems solved in Python.
 - [Check for Prime](./prime.py)
 - [Prime Factorization](./prime_factorization.py)
 - [All Divisors of a Number](./all_divisors_of_a_number.py) 
+- [Sieve of Eratosthenes](./sieve_of_erathosthenes.py) 
