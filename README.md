@@ -15,3 +15,4 @@ A collection of Data Structures and Algorithms problems solved in Python.
 - [All Divisors of a Number](./all_divisors_of_a_number.py) 
 - [Sieve of Eratosthenes](./sieve_of_erathosthenes.py) 
 - [Computing Power](./computing_power.py) 
+- [Iterative Power (Binary Exponentiation)](./iterative_power.py) 
