@@ -12,3 +12,4 @@ A collection of Data Structures and Algorithms problems solved in Python.
 - [LCM of two numbers](./lcm.py)
 - [Check for Prime](./prime.py)
 - [Prime Factorization](./prime_factorization.py)
+- [All Divisors of a Number](./all_divisors_of_a_number.py) 
