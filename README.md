@@ -18,3 +18,4 @@ A collection of Data Structures and Algorithms problems solved in Python.
 - [Iterative Power (Binary Exponentiation)](./iterative_power.py) 
 - [Digits In Factorial](./digits_in_factorial.py) 
 - [Exactly 3 Divisors](./exacltly_3_divisors.py) 
+- [Exactly 3 Divisors](./exacltly_3_divisors.py) 
