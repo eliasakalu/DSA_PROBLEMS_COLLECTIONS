@@ -19,3 +19,4 @@ A collection of Data Structures and Algorithms problems solved in Python.
 - [Digits In Factorial](./digits_in_factorial.py) 
 - [Exactly 3 Divisors](./exacltly_3_divisors.py) 
 
+- [Quadratic Equation Roots](./quadratic_equation_roots.py) 
