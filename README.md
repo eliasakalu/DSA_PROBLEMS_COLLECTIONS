@@ -16,5 +16,4 @@ A collection of Data Structures and Algorithms problems solved in Python.
 - [Sieve of Eratosthenes](./sieve_of_erathosthenes.py) 
 - [Computing Power](./computing_power.py) 
 - [Iterative Power (Binary Exponentiation)](./iterative_power.py) 
-- [Digits In Factorial](./) 
 - [Digits In Factorial](./digits_in_factorial.py) 
