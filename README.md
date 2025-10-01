@@ -21,3 +21,4 @@ A collection of Data Structures and Algorithms problems solved in Python.
 - [Quadratic Equation Roots](./quadratic_equation_roots.py) 
 - [GP Term](./gp_term.py)
 - [Addition Under Modulo](./addition_under_modulo.py)
+- [Multiplication Under Modulo](./multiplication_under_modulo.py)
