@@ -22,4 +22,4 @@ A collection of Data Structures and Algorithms problems solved in Python.
 - [GP Term](./gp_term.py)
 - [Addition Under Modulo](./addition_under_modulo.py)
 - [Multiplication Under Modulo](./multiplication_under_modulo.py)
-- [Modular Inverse](./modular_inverse.py) 
+- [Modular Inverse](./modular_inverse.py)
