@@ -23,3 +23,4 @@ A collection of Data Structures and Algorithms problems solved in Python.
 - [Addition Under Modulo](./addition_under_modulo.py)
 - [Multiplication Under Modulo](./multiplication_under_modulo.py)
 - [Modular Inverse](./modular_inverse.py)
+- [Separate Even and Odd](./separate_even_and_odd.py)
