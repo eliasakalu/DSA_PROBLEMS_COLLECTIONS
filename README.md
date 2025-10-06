@@ -24,3 +24,4 @@ A collection of Data Structures and Algorithms problems solved in Python.
 - [Multiplication Under Modulo](./multiplication_under_modulo.py)
 - [Modular Inverse](./modular_inverse.py)
 - [Separate Even and Odd](./separate_even_and_odd.py)
+- [Second Largest Element in a List](./second_largest_element_in_a_list.py)
