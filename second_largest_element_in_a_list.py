@@ -1,4 +1,4 @@
-# 🚀 Efficient Approach
+# Efficient Approach
 # Time Complexity: O(n) | Auxiliary Space: O(1)
 
 def getSecMaxEfficient(l):
@@ -15,7 +15,7 @@ def getSecMaxEfficient(l):
                 slar = x
     return slar
 
-# 🐢 Naive Approach
+#  Naive Approach
 # Time Complexity: O(n) | Auxiliary Space: O(1)
 
 def getMax(l):
