@@ -28,3 +28,4 @@ A collection of Data Structures and Algorithms problems solved in Python.
 - [Check If Sorted](./check_if_sorted.py)
 - [Reverse a list in Python](./reverse_a_list.py)
 - [Remove Duplicates](./remove_duplicates.py) 
+- [Left Rotate a list by one](./left_rotate_a_list_by_one.py) 
