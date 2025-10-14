@@ -31,3 +31,4 @@ A collection of Data Structures and Algorithms problems solved in Python.
 - [Left Rotate a list by one](./left_rotate_a_list_by_one.py) 
 - [One Odd Occurring](./one_odd_occurring.py) 
 - [Binary Search](./binary_search.py) 
+- [Index of First Occurrence and Last Occurrence](./index_of_first_and_last_occurence.py) 
