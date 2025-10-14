@@ -26,4 +26,5 @@ A collection of Data Structures and Algorithms problems solved in Python.
 - [Separate Even and Odd](./separate_even_and_odd.py)
 - [Second Largest Element in a List](./second_largest_element_in_a_list.py)
 - [Check If Sorted](./check_if_sorted.py)
-- [Reverse a list in Python](./reverse_a_list.py)- [Remove Duplicates](./) 
+- [Reverse a list in Python](./reverse_a_list.py)
+- [Remove Duplicates](./remove_duplicates.py) 
