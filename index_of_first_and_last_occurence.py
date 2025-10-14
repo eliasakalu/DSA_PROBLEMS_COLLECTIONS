@@ -15,12 +15,17 @@ def  firstOccurenceEfficently(arr,x,s,e):
     if s>e:
         return -1
     mid=(s+e)//2
-    if arr[mid]==x and (arr[mid]>arr[mid-1] or mid==0):
+    if arr[mid]==x and (mid==0 or arr[mid]>arr[mid-1]):
         return mid
     elif arr[mid]>x:
         return firstOccurenceEfficently(arr,x,s,mid-1)
-    else:
+    elif arr[mid]<x:
         return firstOccurenceEfficently(arr,x,mid+1,e)
+    else:
+        if mid==0 or arr[mid-1]!=arr[mid]:
+            return mid
+        else:
+            return firstOccurenceEfficently(arr,x,s,mid-1)
 def  lastOccurenceEfficently(arr,x,s,e):
     if s>e:
         return -1
@@ -35,9 +40,9 @@ def  lastOccurenceEfficently(arr,x,s,e):
 
 if __name__=="__main__":
     arr = [1, 2, 2, 2, 2, 3, 4, 7, 8, 8]
-    x = 8
+    x = 2
      #🔍 Naive Result
-    first, last = firstLastOccurence(arr, x)
+    first, last = firstLastOccurence(arr.copy(), x)
     if (first, last) == (-1, -1):
         print("🔎 Element not found")
     elif last==-1:

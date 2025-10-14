@@ -32,3 +32,4 @@ A collection of Data Structures and Algorithms problems solved in Python.
 - [One Odd Occurring](./one_odd_occurring.py) 
 - [Binary Search](./binary_search.py) 
 - [Index of First Occurrence and Last Occurrence](./index_of_first_and_last_occurence.py) 
+- [Count Occurrences in Sorted Array](./count_occurence_in_sorted_array.py) 
