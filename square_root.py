@@ -43,3 +43,4 @@ if __name__=="__main__":
     print(f"Using Built in:sqroot of {x} is {sqroot(x)}")
     print(f"Using While loop:sqroot of {x} is {sqroot2(x)}")
     print(f"Using Binary Search:sqroot of {x} is {findsqrt(x)}")
+    print(math.log2(11))

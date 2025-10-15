@@ -35,3 +35,4 @@ A collection of Data Structures and Algorithms problems solved in Python.
 - [Count Occurrences in Sorted Array](./count_occurence_in_sorted_array.py) 
 - [Count 1's in a Sorted Binary List](./count_1s_in_sorted_binary_list.py) 
 - [Square Root](./square_root.py) 
+- [Jump Search](./jump_search.py) 
