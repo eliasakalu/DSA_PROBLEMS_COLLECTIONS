@@ -40,3 +40,4 @@ A collection of Data Structures and Algorithms problems solved in Python.
 - [Left Index](./left_index.py) 
 - [Peak Element](./peak_element.py) 
 - [Count 1s In The Binary Array](./count_1s_in_binary_array.py) 
+- [Floor in a Sorted Array](./floor_in_sorted_array.py) 
