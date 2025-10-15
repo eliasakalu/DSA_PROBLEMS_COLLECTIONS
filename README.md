@@ -38,3 +38,4 @@ A collection of Data Structures and Algorithms problems solved in Python.
 - [Jump Search](./jump_search.py) 
 - [Interpolation Search](./interpolation.py) 
 - [Left Index](./left_index.py) 
+- [Peak Element](./peak_element.py) 
