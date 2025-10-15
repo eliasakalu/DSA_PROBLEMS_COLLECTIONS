@@ -37,3 +37,4 @@ A collection of Data Structures and Algorithms problems solved in Python.
 - [Square Root](./square_root.py) 
 - [Jump Search](./jump_search.py) 
 - [Interpolation Search](./interpolation.py) 
+- [Left Index](./left_index.py) 
