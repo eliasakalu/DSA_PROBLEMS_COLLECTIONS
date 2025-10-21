@@ -43,3 +43,4 @@ A collection of Data Structures and Algorithms problems solved in Python.
 - [Floor in a Sorted Array](./floor_in_sorted_array.py) 
 - [Array Search](./array_search.py) 
 - [Sorting](././sorting.py) 
+- [Bubble Sort](././bubble_sort.py) 
