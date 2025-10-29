@@ -45,3 +45,4 @@ A collection of Data Structures and Algorithms problems solved in Python.
 - [Sorting](././sorting.py) 
 - [Bubble Sort](././bubble_sort.py) 
 - [Selection Sort](././selection_sort.py) 
+- [Search Algorithms](./search_algorithms.py) 
