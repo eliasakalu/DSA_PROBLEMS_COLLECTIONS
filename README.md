@@ -46,3 +46,4 @@ A collection of Data Structures and Algorithms problems solved in Python.
 - [Bubble Sort](././bubble_sort.py) 
 - [Selection Sort](././selection_sort.py) 
 - [Search Algorithms](./search_algorithms.py) 
+- [ Merge two sorted arrays](./merge_two_sorted_array.py) 
