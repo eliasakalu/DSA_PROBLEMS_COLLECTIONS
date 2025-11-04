@@ -29,9 +29,21 @@ def isPeakExistEfficently(arr):
         else:
             e=mid-1
     return -1
+import matplotlib.pyplot as plt
 arr=[5, 2 ,1]
 x=isPeakExistSimply(arr) 
 y=isPeakExistEfficently(arr) 
 print("Peak Found" if x!=-1 else "Peak Not found")
 print("Peak Found" if y!=-1 else "Peak Not found")
 
+plt.plot(arr, marker='o')
+if x != -1:
+    plt.plot(x, arr[x], 'ro', label='Naive Peak')
+if y != -1:
+    plt.plot(y, arr[y], 'go', label='Binary Peak')
+plt.legend()
+plt.title("Peak Detection")
+plt.xlabel("Index")
+plt.ylabel("Value")
+plt.grid(True)
+plt.show()
