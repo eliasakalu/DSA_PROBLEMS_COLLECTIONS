@@ -47,3 +47,4 @@ A collection of Data Structures and Algorithms problems solved in Python.
 - [Selection Sort](././selection_sort.py) 
 - [Search Algorithms](./search_algorithms.py) 
 - [ Merge two sorted arrays](./merge_two_sorted_array.py) 
+- [Merge Sort](./merge_sort.py) 
